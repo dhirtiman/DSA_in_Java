@@ -6,7 +6,7 @@ public class CheckPrime {
         String res = "Not prime";
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter number");
+        System.out.println("Enter number.");
         n = sc.nextInt();
         if (n != 1 && n != 0) {
 
