@@ -17,6 +17,7 @@ public class Salary {
 
         System.out.print("Salary after Bonus: ");
         System.out.println(String.format("%.0f", salary));
+        sc.close();
     }
     
 }
